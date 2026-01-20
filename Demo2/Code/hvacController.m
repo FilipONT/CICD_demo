@@ -20,6 +20,7 @@ deadband = 0.5;
 
 % If building is unoccupied, reduce energy usage
 if ~occupancy
+    powerCommand = 0.2;
     return;
 end
 
