@@ -1,5 +1,4 @@
-
-name: Demo3: GitHub Simulink Process Advisor Workflow
+name: Demo3
 on:
   push:
     paths:
