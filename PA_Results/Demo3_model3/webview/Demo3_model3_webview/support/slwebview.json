@@ -1,0 +1,27 @@
+{
+ "version":3,
+ "baseUrl":"support/slwebview_files",
+ "homeHid":1,
+ "sections":[
+  {
+   "hid":1,
+   "sid":"Demo3_model3",
+   "name":"Demo3_model3",
+   "fullname":"Demo3_model3",
+   "label":"Demo3_model3",
+   "parent":0,
+   "descendantIDs":[
+   ],
+   "descendantsURL":"support/slwebview_files/Demo3_model3_diagrams_1.json",
+   "sysViewURL":"support/slwebview_files/Demo3_model3_p.json"
+  }
+ ],
+ "optViews":[
+ ],
+ "display":{
+  "informer":false,
+  "notes":false
+ },
+ "iconsUrl":"support/slwebview_files/icon.css",
+ "lod":true
+}
