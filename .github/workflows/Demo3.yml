@@ -4,7 +4,7 @@ on:
     paths:
      - 'Demo3/Models/**'
 env:
-  MW_SUPPORT_PACKAGE_ROOT: 'C:\\ProgramData\\MATLAB\\SupportPackages\\R2025a\\bin'
+  MW_SUPPORT_PACKAGE_ROOT: 'C:/ProgramData/MATLAB/SupportPackages/R2025b/bin'
   MW_RELATIVE_PROJECT_PATH: ''
   MW_PIPELINE_GEN_DIRECTORY: "_pipelineGen_" 
   # Note: You should never hardcode secrets or tokens in the YAML file.
