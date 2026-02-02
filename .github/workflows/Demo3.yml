@@ -2,7 +2,7 @@ name: Demo3
 on:
   push:
     paths:
-        - 'Demo3/'
+     - 'Demo3/Models/**'
 env:
   MW_SUPPORT_PACKAGE_ROOT: 'C:\\ProgramData\\MATLAB\\SupportPackages\\R2025a\\bin'
   MW_RELATIVE_PROJECT_PATH: ''
