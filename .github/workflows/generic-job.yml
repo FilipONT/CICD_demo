@@ -11,7 +11,7 @@ jobs:
     name: Generic Job
     runs-on: 'self-hosted'
     env:
-      MW_SUPPORT_PACKAGE_ROOT: 'C:/ProgramData\MATLAB/SupportPackages/R2025b/bin' 
+      MW_SUPPORT_PACKAGE_ROOT: 'C:/ProgramData\MATLAB/SupportPackages/R2025b' 
       MW_RELATIVE_PROJECT_PATH: '' 
       MW_REMOTE_BUILD_CACHE_NAME: ${{ github.workflow }}  
       MW_PIPELINE_GEN_DIRECTORY: 'derived\pipeline' 
